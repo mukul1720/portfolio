@@ -1,0 +1,36 @@
+.home{
+    height:60vh;
+    margin:20px;
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+}
+.image img{
+    height: 20rem;
+    width:20rem;
+    object-fit: cover;
+    border-radius: 8px;
+
+}
+.margin{
+    margin-top: 6rem;
+    display: flex;
+    justify-content: space-around;/* horizontally   adjust krega */
+    width: 100%;
+}
+.name{
+    display: flex;
+    flex-direction: column;/*items ko column ma krega*/
+    justify-content: center;/*horzontally center kregsa*/
+    align-items: center;/*vertically center krega*/
+
+}
+.name h2{
+    font-size: 3.5rem;
+    font-weight:800;
+}
+.name p{
+    font-size: 1.2rem;
+    width: 100%;
+}
+

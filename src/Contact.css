@@ -1,0 +1,20 @@
+.contact {
+    text-align: center;
+    margin: 48px;
+    
+}
+.contact h2{
+    text-decoration: underline;
+    
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    
+
+}
+.form .button{
+display: flex;
+justify-content: center;
+}
